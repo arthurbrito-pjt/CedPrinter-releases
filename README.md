@@ -1,4 +1,8 @@
 <p align="center">
+  🌐 <b>Português</b> · <a href="README.en.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.zh.md">中文</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ar.md">العربية</a> · <a href="README.fr.md">Français</a> · <a href="README.bn.md">বাংলা</a> · <a href="README.ru.md">Русский</a> · <a href="README.ur.md">اردو</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+</p>
+
+<p align="center">
   <img src="docs/social-preview.png" alt="CedPrinter" width="900">
 </p>
 
