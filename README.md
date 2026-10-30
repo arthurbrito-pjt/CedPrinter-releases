@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/social-preview.png" alt="CedPrinter" width="480">
+  <img src="docs/social-preview.png" alt="CedPrinter" width="900">
 </p>
 
 <h3 align="center">Crie e imprima etiquetas em impressoras Zebra, sem anúncios.</h3>
