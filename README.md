@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Downloads do CedPrinter: impressão e criação de etiquetas para impressoras Zebra.</b><br>
-  Feito para a <b>Cedisa Central de Aço</b> · Windows e Android
+  Windows e Android · português (BR) · sem anúncios
 </p>
 
 <p align="center">
@@ -57,12 +57,12 @@ Os dois aplicativos avisam sozinhos quando sai versão nova: aparece uma janela 
 
 ## Precisa de ajuda?
 
-Fale com **Arthur Brito - Projetos** (Cedisa), pelo Teams.
+Fale com **Arthur Brito - Projetos** pelo [GitHub](https://github.com/arthurbrito-pjt).
 
 O código-fonte é privado. Este repositório guarda somente os instaladores e as versões publicadas.
 
 ---
 
 <p align="center">
-  Desenvolvido por <b>Arthur Brito - Projetos</b> · Cedisa Central de Aço
+  Desenvolvido por <b>Arthur Brito - Projetos</b>
 </p>
