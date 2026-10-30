@@ -1,0 +1,27 @@
+CedPrinter — Termos de uso
+
+Copyright (c) 2026 Arthur Brito - Projetos. Todos os direitos reservados.
+
+O CedPrinter é distribuído gratuitamente, somente em formato executável
+(instalador, versão portátil e aplicativo Android). O código-fonte é privado.
+
+Você pode:
+  - instalar e usar o CedPrinter, gratuitamente, em quantos computadores e
+    aparelhos quiser, para uso pessoal ou comercial;
+  - copiar e compartilhar os instaladores originais, sem alterações, desde que
+    mantenha este aviso.
+
+Você não pode:
+  - modificar, descompilar ou fazer engenharia reversa do programa, exceto
+    quando a lei permitir expressamente;
+  - vender o CedPrinter ou apresentá-lo como se fosse de outra pessoa ou empresa.
+
+O CedPrinter usa componentes de terceiros sob suas próprias licenças, entre
+eles Electron, pdf.js, bwip-js e os ícones do Lucide (licença ISC).
+
+ISENÇÃO DE GARANTIA: o programa é fornecido "como está", sem garantia de
+qualquer tipo. O autor não se responsabiliza por perdas ou danos decorrentes do
+uso, inclusive etiquetas impressas incorretamente. Confira sempre a primeira
+etiqueta antes de imprimir em quantidade.
+
+Dúvidas: https://github.com/arthurbrito-pjt
